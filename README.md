@@ -1,4 +1,4 @@
-# springboot-jeus7-example
+# springboot jeus7 example
 JEUS7 - SPRINGBOOT Example code
 
 NOTICE
